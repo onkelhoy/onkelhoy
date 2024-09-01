@@ -4,6 +4,14 @@ Im a self thought developer with a bacelor degree in Computer Science.
 i rather reinvent the wheel then using a faulty one. 
 i hate long code files and stupid solutions, i love simplicity and that requires iterations of your solution
 
+***
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=xdvrx1&label=PROFILE+VIEWS" alt="xdvrx1" /> 
+</p>
+
+***
+
 ### a note for "professional" developers 
 I think yall should learn math first before code as you learn problem solving,  
 far too many people i have met that doesnt really have great understanding in computers and you get too stuck to become a tool for a company.
@@ -23,6 +31,8 @@ if i didnt reach out to you or if you aint from the gaming industry i will most 
 
 ### my favorite area 
 collision detection + reaponse algorithms 
+
+***
 
 ### web-components 
 this project of mine is worth talking about. 
