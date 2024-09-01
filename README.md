@@ -24,19 +24,6 @@ if i didnt reach out to you or if you aint from the gaming industry i will most 
 ### my favorite area 
 collision detection + reaponse algorithms 
 
-### my thoughts (bit negative)
-i think the web is becoming one of the most advanced target to develop, 
-backend is tricky yes but mainly because of weird business requirements from people who do not understand code. 
-But frontend has to deal with many things, design, responsiveness, data fetching, role management, offline modes, error display (nothing is ever allowed to actually crash) 
-translations, component logic, then all these shitty frameworks and how they work.. 
-
-nothing is complex but frontend has to deal with just so much today. 
-how would i solve it? if a dictatorship role cannot be introduced - that would the "architect" 
-then make sure backend people sit together with UX people... or make sure that backend people are having strong skills in frontend!
-
-im so tired of backend people doing whatever they want and their work affects frontend so much.. on top of that we have to also deal with designers who want to express themselves to this world 
-while still the main projects companies do is just replacing excell because of x reasons.
-
 ### web-components 
 this project of mine is worth talking about. 
 it is becoming my little baby, something i will be able to reuse for whatever JS project i want, its not just a web-component library but rather a life-cycle/ecosystem
